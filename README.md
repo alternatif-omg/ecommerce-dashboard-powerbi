@@ -7,13 +7,15 @@ An end-to-end data analysis project using SQL and Power BI on the Brazilian E-Co
 ## 📊 Dashboard Preview
 
 ### Page 1 — Revenue Overview
-![Revenue Overview](screenshots/halaman1.png)
+<img width="1167" height="647" alt="halaman1" src="https://github.com/user-attachments/assets/f911c277-3100-4e81-a567-8a8bd17fe184" />
 
 ### Page 2 — Logistics Performance
-![Logistics Performance](screenshots/halaman2.png)
+<img width="1307" height="731" alt="halaman2" src="https://github.com/user-attachments/assets/1ea7065c-8f94-4ecb-9858-df876d097b60" />
+
 
 ### Page 3 — Customer Analysis
-![Customer Analysis](screenshots/halaman3.png)
+<img width="1301" height="726" alt="halaman3" src="https://github.com/user-attachments/assets/3ea23368-eac4-4820-84f3-af97b1b90c93" />
+
 
 ---
 
@@ -81,6 +83,6 @@ Avg Review Score = AVERAGE(order_reviews[review_score])
 ---
 
 ## 📥 Download Dashboard File
-> 📎 [Download .pbix file](GANTI_DENGAN_LINK_GDRIVE_KAMU)
+> 📎 https://drive.google.com/file/d/1ucQrM3SLNMuVZtrdBhk9HCVtL6RAXoaN/view?usp=sharing
 
 ---
